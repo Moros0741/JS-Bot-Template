@@ -1,0 +1,26 @@
+{
+  "name": "js-bot-template",
+  "version": "1.0.0",
+  "description": "Javascript Discord Bot template, using discord.js v14.9.0",
+  "main": "deployCommands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moros0741/JS-Bot-Template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moros0741/JS-Bot-Template/issues"
+  },
+  "homepage": "https://github.com/Moros0741/JS-Bot-Template#readme",
+  "dependencies": {
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.9.0",
+    "mongoose": "^7.0.3",
+    "short-unique-id": "^4.4.4"
+  }
+}
